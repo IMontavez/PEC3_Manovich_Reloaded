@@ -36,7 +36,7 @@ Twitch y VR Meta Quest 3 ejemplifican cómo esta hibridación, impulsada por el 
 
 ## VR Meta Quest 3 y la Hibridación de Realidad y Virtualidad
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Meta_Quest_3_display_unit.jpg" alt="Imagen de Mesta Quest 3" width="504" height="378" />
+![Imagen Meta Quest 3](https://upload.wikimedia.org/wikipedia/commons/a/af/Meta_Quest_3_display_unit.jpg)
 
 *Imagen por IHazACatNamedMax en Wikipedia, disponible bajo licencia CC BY-SA 4.0*
 
