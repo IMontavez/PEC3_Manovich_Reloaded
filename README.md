@@ -15,7 +15,6 @@ Lev Manovich, en "El software toma el mando", define la hibridación como un pro
 
 Twitch y VR Meta Quest 3 ejemplifican cómo esta hibridación, impulsada por el software avanzado, redefine los límites del entretenimiento, la interacción social y la experiencia sensorial, transformando la naturaleza original de los componentes y la experiencia del usuario.
 
-
 ## Twitch y la Hibridación del Entretenimiento y la Comunidad
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Twitch.jpg" alt="Logo de Twitch" width="187.5" height="250" />  
@@ -36,10 +35,9 @@ Twitch y VR Meta Quest 3 ejemplifican cómo esta hibridación, impulsada por el 
 
 ## VR Meta Quest 3 y la Hibridación de Realidad y Virtualidad
 
-![Imagen Meta Quest 3](https://upload.wikimedia.org/wikipedia/commons/a/af/Meta_Quest_3_display_unit.jpg)
+<img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/09/Meta-Quest-3-review-1-1300x731.jpg" alt="Imagen de Mesta Quest 3" width="650" height="365.5" />
 
-*Imagen por IHazACatNamedMax en Wikipedia, disponible bajo licencia CC BY-SA 4.0*
-
+*Imagen por trustedreviews.com disponible bajo licencia CC BY-NC-ND 4.0 DEED*
 
 **Descripción:** Las gafas de realidad virtual VR Meta Quest 3 son un hito en la evolución de la tecnología VR. Estas gafas no solo ofrecen una experiencia de realidad virtual más inmersiva y convincente, sino que también integran elementos del mundo real en el virtual de manera fluida y natural. Esta integración señala un avance significativo en cómo interactuamos con y percibimos la tecnología, marcando un punto de inflexión en la fusión de la realidad con la virtualidad.
 
